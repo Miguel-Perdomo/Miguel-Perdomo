@@ -48,6 +48,7 @@ Currently developing open-source scientific software while expanding my expertis
 
 - Scientific C++ — Modern C++ projects and scientific software development.
 - ALBEDO — Monte Carlo platform for gamma-ray spectroscopy and radiation transport *(under active development)*.
+- NuSpec — Scientific Python library for radiation spectrum analysis, featuring modular architecture for peak fitting and detector characterization.
 
 ---
 
